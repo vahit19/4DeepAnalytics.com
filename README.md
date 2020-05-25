@@ -25,7 +25,7 @@ Video analytics technologies are able to detect anomalous behavior in AI powered
 
 As well as helping medical staff improve patient care, video analytics can also increase efficiency. By analyzing patient behavior patterns at different hospital locations and times of the day, analytics can improve staffing levels by providing accurate information about where staff members are being posted, versus where the highest amount of activity is occurring. This can help hospital administrators make the best use of resources and help improve emergency procedures.
 
-The application has a streaming video support from Istanbul Cities Public Live Cameras as follows:
+The application has a streaming video support from Istanbul City Public Live Cameras as follows:
 
 $ python CoronaLytics_POI_Istanbul.py
 
@@ -35,7 +35,9 @@ What type of camera do you want to use?
  
  (2) City and Traffic Cameras
  
+ 
 Select the Camera you want to process
+
 
 (0) Anadolu Hisarı
 
@@ -93,15 +95,17 @@ Select the Camera you want to process
 
 (27) İstiklal Caddesi 2
 
+
 CoronaLytics Dependencies:
 
-CoronaLytics includes VidGear, a powerful python Video Processing engine built with multiple APIs (a.k.a Gears) each with a unique set of trailblazing features. These provides a highly extensible, multi-threaded & asyncio wrapper around many underlying state-of-the-art libraries such as OpenCV, FFmpeg, ZeroMQ, picamera, starlette, pafy and python-mss.
+CoronaLytics includes VidGear, a powerful Video Processing engine built with multiple APIs (a.k.a Gears) each with a unique set of trailblazing features. These provides a highly extensible, multi-threaded & asyncio wrapper around many underlying state-of-the-art libraries such as OpenCV, FFmpeg, ZeroMQ, picamera, starlette, pafy and python-mss.
 
 CoronaLytics can grab ultra-fast frames from diverse range of devices/streams, which includes almost any IP/USB Cameras, multimedia video file format (upto 4k tested), various network stream protocols such as http(s), rtp, rstp, rtmp, mms, etc., plus support for live Gstreamer's stream pipeline and YouTube video/live-streams URLs.
 
 Please install VidGear at first as bellow:
 
 $ pip install vidgear
+
 
 The YOLOv3 trained on COCO is used for person recognition and detection, I have not included the weights as a part of the repository as it is quite big (236MB). You can download it at https://pjreddie.com/media/files/yolov3.weights and add it to the folder - "yolo-coco" as a part of the repository. I have mentioned the folder path on line number 203, and can be changed.
 
@@ -112,6 +116,7 @@ The application detects people who are close by and not adhering to the distanci
 The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame.
 
 The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
+
 
 Resources:
 
