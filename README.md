@@ -95,11 +95,7 @@ Select the Camera you want to process
 
 (27) İstiklal Caddesi 2
 
-The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN.
-
-The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame.
-
-The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
+The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN. The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame. The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
 
 CoronaLytics Dependencies:
