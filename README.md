@@ -1,4 +1,4 @@
-# 4DeepAnalytics.com
+# The CoronaLytics Project
 Towards IoT to Artificial Intelligence of Things (AIoT) 
 
 Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances.
