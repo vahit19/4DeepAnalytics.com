@@ -93,9 +93,17 @@ Select the Camera you want to process
 
 (27) İstiklal Caddesi 2
 
-YOLO v3 Dependency:
+CoronaLytics Dependencies:
 
-YOLOv3 trained on COCO is used for person recognition and detection, I have not included the weights as a part of the repository as it is quite big (236MB). You can download it at https://pjreddie.com/media/files/yolov3.weights and add it to the folder - "yolo-coco" as a part of the repository. I have mentioned the folder path on line number 203, and can be changed.
+CoronaLytics includes VidGear, a powerful python Video Processing engine built with multiple APIs (a.k.a Gears) each with a unique set of trailblazing features. These provides a highly extensible, multi-threaded & asyncio wrapper around many underlying state-of-the-art libraries such as OpenCV, FFmpeg, ZeroMQ, picamera, starlette, pafy and python-mss.
+
+CoronaLytics can grab ultra-fast frames from diverse range of devices/streams, which includes almost any IP/USB Cameras, multimedia video file format (upto 4k tested), various network stream protocols such as http(s), rtp, rstp, rtmp, mms, etc., plus support for live Gstreamer's stream pipeline and YouTube video/live-streams URLs.
+
+Please install VidGear at first as bellow:
+
+$ pip install vidgear
+
+The YOLOv3 trained on COCO is used for person recognition and detection, I have not included the weights as a part of the repository as it is quite big (236MB). You can download it at https://pjreddie.com/media/files/yolov3.weights and add it to the folder - "yolo-coco" as a part of the repository. I have mentioned the folder path on line number 203, and can be changed.
 
 yolopath = "yolo-coco/" # Path points to folder containing weights, cfg and names.
 
@@ -106,6 +114,7 @@ The Dashboard at the right, gives a visual representation of the data. The numbe
 The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
 Resources:
+
 Object Detection using YOLO from PyImageSearch - Link to article
 
 Input videos used for testing and development:
