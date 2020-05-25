@@ -29,39 +29,40 @@ $ python CoronaLytics_POI_Istanbul.py
 
 What type of camera do you want to use?
 
- (1)Tourist Camera
+ (1) Tourist Camera
+ 
  (2) City and Traffic Cameras
  
 Select the Camera you want to process
 
-(0)Anadolu Hisarı
-(1)Bağdat Caddesi 
-(2)Bağdat Caddesi 2 
-(3)Beyazit Kulesi
-(4)Beyazit Meydan 
-(5)Büyük Çamlıca 
-(6)Dragos
-(7)Emirgan 
-(8)Galata Kulesi
-(9)Hidiv Kasrı 1 
-(10)Hidiv Kasrı 2 
-(11)Kadıköy 
-(12)Karaköy 
-(13)Kapalı Çarşı 
-(14)Kız Kulesi 
-(15)Küçük Çamlıca
-(16)Metrohan 
-(17)Mısır Çarşısı 
-(18)Miniatürk 
-(19)Pierre Loti 
-(20)Salacak 
-(21)Saraçhane 
-(22)Sepetçiler Kasrı 
-(23)Sultanahmet 
-(24)Taksim 
-(25)Ulus Parkı 
-(26)İstiklal Caddesi 1
-(27)İstiklal Caddesi 2
+(0) Anadolu Hisarı
+(1) Bağdat Caddesi 
+(2) Bağdat Caddesi 2 
+(3) Beyazit Kulesi
+(4) Beyazit Meydan 
+(5) Büyük Çamlıca 
+(6) Dragos
+(7) Emirgan 
+(8) Galata Kulesi
+(9) Hidiv Kasrı 1 
+(10) Hidiv Kasrı 2 
+(11) Kadıköy 
+(12) Karaköy 
+(13) Kapalı Çarşı 
+(14) Kız Kulesi 
+(15) Küçük Çamlıca
+(16) Metrohan 
+(17) Mısır Çarşısı 
+(18) Miniatürk 
+(19) Pierre Loti 
+(20) Salacak 
+(21) Saraçhane 
+(22) Sepetçiler Kasrı 
+(23) Sultanahmet 
+(24) Taksim 
+(25) Ulus Parkı 
+(26) İstiklal Caddesi 1
+(27) İstiklal Caddesi 2
 
 YOLO v3 Dependency:
 
