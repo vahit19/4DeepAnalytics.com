@@ -95,6 +95,12 @@ Select the Camera you want to process
 
 (27) İstiklal Caddesi 2
 
+The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN.
+
+The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame.
+
+The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
+
 
 CoronaLytics Dependencies:
 
@@ -114,12 +120,6 @@ $ pip install vidgear
 The YOLOv3 trained on COCO is used for person recognition and detection, I have not included the weights as a part of the repository as it is quite big (236MB). You can download it at https://pjreddie.com/media/files/yolov3.weights and add it to the folder - "yolo-coco" as a part of the repository. I have mentioned the folder path on line number 203, and can be changed.
 
 yolopath = "yolo-coco/" # Path points to folder containing weights, cfg and names.
-
-The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN.
-
-The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame.
-
-The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
 
 Resources:
