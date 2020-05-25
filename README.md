@@ -9,7 +9,7 @@ As social distancing and face masks become an important tool to combat COVID-19,
 
 the demo project streaming video from Cities Public Live Cameras:
 
-[![](http://img.youtube.com/vi/3P4LBxkxPBA/0.jpg)](http://www.youtube.com/watch?v=3P4LBxkxPBA "The CoronaLytics, Istanbul Covid-19 Social Distancing Analysis based on AI based Video Analytics")
+[![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=3P4LBxkxPBA "Covid-19 Istanbul")
 
 Please kindly see the demo video at this Link
 
