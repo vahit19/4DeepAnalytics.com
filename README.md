@@ -115,8 +115,5 @@ The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
 Resources:
 
-Object Detection using YOLO from PyImageSearch - Link to article
-
-Input videos used for testing and development:
-
-Outdoor videos: VIRAT Dataset
+Object Detection using YOLO from PyImageSearch
+Live Cams videos: Istanbul IBB city live cams https://istanbuluseyret.ibb.istanbul/camera
