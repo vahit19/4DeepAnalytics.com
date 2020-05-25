@@ -72,3 +72,10 @@ The application detects people who are close by and not adhering to the distanci
 The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame.
 
 The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
+
+Resources:
+Object Detection using YOLO from PyImageSearch - Link to article
+
+Input videos used for testing and development:
+
+Outdoor videos: VIRAT Dataset
