@@ -98,6 +98,10 @@ Select the Camera you want to process
 
 CoronaLytics Dependencies:
 
+If you have a problem about tensorflow-gpu 1.13.1, you can use conda install as bellow:
+
+$ conda install -c nwani tensorflow-gpu
+
 CoronaLytics includes VidGear, a powerful Video Processing engine built with multiple APIs (a.k.a Gears) each with a unique set of trailblazing features. These provides a highly extensible, multi-threaded & asyncio wrapper around many underlying state-of-the-art libraries such as OpenCV, FFmpeg, ZeroMQ, picamera, starlette, pafy and python-mss.
 
 CoronaLytics can grab ultra-fast frames from diverse range of devices/streams, which includes almost any IP/USB Cameras, multimedia video file format (upto 4k tested), various network stream protocols such as http(s), rtp, rstp, rtmp, mms, etc., plus support for live Gstreamer's stream pipeline and YouTube video/live-streams URLs.
