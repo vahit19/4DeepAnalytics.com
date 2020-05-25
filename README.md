@@ -21,7 +21,9 @@ Video analytics technologies are able to detect anomalous behavior in AI powered
 
 As well as helping medical staff improve patient care, video analytics can also increase efficiency. By analyzing patient behavior patterns at different hospital locations and times of the day, analytics can improve staffing levels by providing accurate information about where staff members are being posted, versus where the highest amount of activity is occurring. This can help hospital administrators make the best use of resources and help improve emergency procedures.
 
-The application have streaming video support from Istanbul Cities Public Live Cameras as follows:
+The application has a streaming video support from Istanbul Cities Public Live Cameras as follows:
+
+$ python CoronaLytics_POI_Istanbul.py
 
 What type of camera do you want to use?
 
@@ -58,6 +60,12 @@ Select the Camera you want to process
 (25)Ulus Parkı 
 (26)İstiklal Caddesi 1
 (27)İstiklal Caddesi 2
+
+YOLO v3 Dependency:
+
+YOLOv3 trained on COCO is used for person recognition and detection, I have not included the weights as a part of the repository as it is quite big (236MB). You can download it at https://pjreddie.com/media/files/yolov3.weights and add it to the folder - "yolo-coco" as a part of the repository. I have mentioned the folder path on line number 203, and can be changed.
+
+yolopath = "yolo-coco/" # Path points to folder containing weights, cfg and names.
 
 The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN.
 
