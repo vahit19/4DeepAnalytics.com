@@ -1,7 +1,9 @@
 # The CoronaLytics Project
 Towards IoT to Artificial Intelligence of Things (AIoT) 
 
-Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances.
+Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances,
+
+Note: CoronaLytics will be custom trained for specific Analytics use-cases in real world 
 
 As social distancing and face masks become an important tool to combat COVID-19, Government regulations or organizations may wish to be notified when individuals are not wearing a mask and those who do not comply with social distance rules, below is a demo of Istanbul Covid-19 Social Distancing Analysis based on AI Deep Learning based Video Analytics with Live Dashboard,
 
@@ -36,32 +38,59 @@ What type of camera do you want to use?
 Select the Camera you want to process
 
 (0) Anadolu Hisarı
-(1) Bağdat Caddesi 
-(2) Bağdat Caddesi 2 
+
+(1) Bağdat Caddesi
+
+(2) Bağdat Caddesi 2
+
 (3) Beyazit Kulesi
-(4) Beyazit Meydan 
-(5) Büyük Çamlıca 
+
+(4) Beyazit Meydan
+
+(5) Büyük Çamlıca
+
 (6) Dragos
-(7) Emirgan 
+
+(7) Emirgan
+
 (8) Galata Kulesi
-(9) Hidiv Kasrı 1 
-(10) Hidiv Kasrı 2 
-(11) Kadıköy 
-(12) Karaköy 
-(13) Kapalı Çarşı 
-(14) Kız Kulesi 
+
+(9) Hidiv Kasrı 1
+
+(10) Hidiv Kasrı 2
+
+(11) Kadıköy
+
+(12) Karaköy
+
+(13) Kapalı Çarşı
+
+(14) Kız Kulesi
+
 (15) Küçük Çamlıca
-(16) Metrohan 
-(17) Mısır Çarşısı 
-(18) Miniatürk 
-(19) Pierre Loti 
-(20) Salacak 
-(21) Saraçhane 
-(22) Sepetçiler Kasrı 
-(23) Sultanahmet 
-(24) Taksim 
-(25) Ulus Parkı 
+
+(16) Metrohan
+
+(17) Mısır Çarşısı
+
+(18) Miniatürk
+
+(19) Pierre Loti
+
+(20) Salacak
+
+(21) Saraçhane
+
+(22) Sepetçiler Kasrı
+
+(23) Sultanahmet
+
+(24) Taksim
+
+(25) Ulus Parkı
+
 (26) İstiklal Caddesi 1
+
 (27) İstiklal Caddesi 2
 
 YOLO v3 Dependency:
