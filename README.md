@@ -1,4 +1,4 @@
-# The CoronaLytics Project
+# The CoronaLytics Project with Live Dashboard and HeatMap
 Towards IoT to Artificial Intelligence of Things (AIoT) 
 
 Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances,
@@ -12,7 +12,7 @@ the demo project streaming video from Cities Public Live Cameras:
 [![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=3P4LBxkxPBA "Covid-19 Istanbul")
 
 
-Please kindly see the demo video at this Link
+Also CoronaLytics with Live Dashboard and HeatMap, Please kindly see the demo video at this Link:
 
 
 [![The CoronaLytics](https://yt-embed.herokuapp.com/embed?v=25rIhR1a1sA&feature=youtu.be)](https://www.youtube.com/watch?v=25rIhR1a1sA&feature=youtu.be "The CoronaLytics")
