@@ -11,11 +11,11 @@ the demo project streaming video from Cities Public Live Cameras:
 
 [![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=3P4LBxkxPBA "Covid-19 Istanbul")
 
+
 Please kindly see the demo video at this Link
 
-https://www.youtube.com/watch?v=3P4LBxkxPBA&feature=youtu.be
 
-[![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=25rIhR1a1sA&feature=youtu.be "Covid-19 Istanbul")
+[![The CoronaLytics](https://yt-embed.herokuapp.com/embed?v=25rIhR1a1sA&feature=youtu.be)](https://www.youtube.com/watch?v=25rIhR1a1sA&feature=youtu.be "The CoronaLytics")
 
 If organizations want to upgrade in-company IP camera infrastructure for this purpose, 4DA offers added value AI solutions to be integrated to their existing security camera systems by custom training of AI models based on data to be collected from the camera viewpoints in their organizations, also these possible to deploy AI models on embedded devices with AIoT solutions.
 
