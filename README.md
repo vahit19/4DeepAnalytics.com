@@ -15,6 +15,8 @@ Please kindly see the demo video at this Link
 
 https://www.youtube.com/watch?v=3P4LBxkxPBA&feature=youtu.be
 
+[![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=25rIhR1a1sA&feature=youtu.be "Covid-19 Istanbul")
+
 If organizations want to upgrade in-company IP camera infrastructure for this purpose, 4DA offers added value AI solutions to be integrated to their existing security camera systems by custom training of AI models based on data to be collected from the camera viewpoints in their organizations, also these possible to deploy AI models on embedded devices with AIoT solutions.
 
 For all the unknowns surrounding the COVID-19 pandemic, one thing is certain: Containing and rolling back the disease is only possible with reliable information about the prevalence of the infection and its spread. The greatest difficulty now is identifying individuals carrying the virus and all the people who interacted with them.
