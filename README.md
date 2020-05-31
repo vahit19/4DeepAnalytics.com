@@ -7,12 +7,12 @@ Note: CoronaLytics will be custom trained for specific Analytics use-cases, also
 
 As social distancing and face masks become an important tool to combat COVID-19, Government regulations or organizations may wish to be notified when individuals are not wearing a mask and those who do not comply with social distance rules, below is a demo of Istanbul Covid-19 Social Distancing Analysis based on AI Deep Learning based Video Analytics with Live Dashboard,
 
-the demo project streaming video from Cities Public Live Cameras:
+V1 of CoronaLytics demo streaming video from Cities Public Live Cameras:
 
 [![Covid-19 Istanbul](https://yt-embed.herokuapp.com/embed?v=3P4LBxkxPBA)](https://www.youtube.com/watch?v=3P4LBxkxPBA "Covid-19 Istanbul")
 
 
-Also CoronaLytics with Live Dashboard and HeatMap, Please kindly see the demo video at this Link:
+Also V2 of CoronaLytics with Live Dashboard and HeatMap, Please kindly see the demo video at this Link:
 
 
 [![The CoronaLytics](https://yt-embed.herokuapp.com/embed?v=25rIhR1a1sA&feature=youtu.be)](https://www.youtube.com/watch?v=25rIhR1a1sA&feature=youtu.be "The CoronaLytics")
@@ -38,7 +38,9 @@ What type of camera do you want to use?
  (2) City and Traffic Cameras
  
  
-Select the Camera you want to process
+Select the Camera you want to process:
+
+For example, plese type 26 for İstiklal Caddesi 1 (street) or 11 for Kadıköy
 
 
 (0) Anadolu Hisarı
