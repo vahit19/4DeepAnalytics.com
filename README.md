@@ -3,7 +3,7 @@ Towards IoT to Artificial Intelligence of Things (AIoT)
 
 Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances,
 
-Note: CoronaLytics will be custom trained for specific Analytics use-cases in real world 
+Note: CoronaLytics will be custom trained for specific Analytics use-cases in real world, also implementation for Integrating CoronaLytics with Node-Red for AIoT use-cases
 
 As social distancing and face masks become an important tool to combat COVID-19, Government regulations or organizations may wish to be notified when individuals are not wearing a mask and those who do not comply with social distance rules, below is a demo of Istanbul Covid-19 Social Distancing Analysis based on AI Deep Learning based Video Analytics with Live Dashboard,
 
@@ -99,6 +99,16 @@ Select the Camera you want to process
 
 The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN. The Dashboard at the right, gives a visual representation of the data. The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame. The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
+
+To Do:
+
+For AI on IoT:
+
+- speed up Python as a C++ with effective coding for increasing performances such as CPU and memory profiling, use Cython for compiling, vectorizing variables, manage garbage collection, use multiprocessing + Plus packing projects and freezes (packages) Python applications into stand-alone executables under Windows, GNU/Linux, Mac OS X), Anaconda Packages, 
+
+- Working on speed up AI Apps using compilation and Multiprocessing, we can disable the Global Interpreter Lock (GIL) of Python, then coding such as C++ and Fortran using Cython and Pythran for gaining performances equal to C, by this way we will have machine level coding with variable types annotation like C and at the same time can use Power of Python and it's most powerful AI communities. (Cython, Numba, Pythran, PyPy, OpenMP etc.)
+
+- Implementation for Integrating CoronaLytics with Node-Red
 
 CoronaLytics Dependencies:
 
