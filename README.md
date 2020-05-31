@@ -112,6 +112,8 @@ For AI on IoT:
 
 - Implementation for Integrating CoronaLytics with Node-Red
 
+- CoronaLytics will be Custom trained for specific Analytics use-cases
+
 CoronaLytics Dependencies:
 
 If you have a problem about tensorflow-gpu 1.13.1, you can use conda install as bellow:
