@@ -1,4 +1,4 @@
-# The CoronaLytics Project with Live Dashboard and HeatMap
+# The CoronaLytics Project with Live Dashboard and HeatMap + Face Mask Detections
 Towards IoT to Artificial Intelligence of Things (AIoT) 
 
 Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances,
@@ -6,6 +6,10 @@ Artificial intelligence (AI) using Deep Learning Technology For Identifying a Pe
 Note: CoronaLytics will be custom trained for specific Analytics use-cases, also be implemented for Integrating CoronaLytics with Node-Red for AIoT use-cases in real world.
 
 As social distancing and face masks become an important tool to combat COVID-19, Government regulations or organizations may wish to be notified when individuals are not wearing a mask and those who do not comply with social distance rules, below is a demo of Istanbul Covid-19 Social Distancing Analysis based on AI Deep Learning based Video Analytics with Live Dashboard,
+
+Now the CoronaLytics V3 is ready, a Corona virus Social Distancing + Face Masks + age/gender live analytics from far distance camera with low resolution handling in the Istiklal Street of Istanbul - Turkey
+
+[![The CoronaLytics V3](https://yt-embed.herokuapp.com/embed?v=v22Q1-N4zpY&feature=youtu.be)](https://www.youtube.com/watch?v=v22Q1-N4zpY&feature=youtu.be "The CoronaLytics")
 
 V1 of CoronaLytics demo streaming video from Cities Public Live Cameras:
 
