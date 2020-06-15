@@ -3,7 +3,7 @@ Towards IoT to Artificial Intelligence of Things (AIoT)
 
 Artificial intelligence (AI) using Deep Learning Technology For Identifying a Person of Interest (POI) in Real World Analytics of COVID-19 Rules For Wearing Face Masks and Social Distances,
 
-Note: CoronaLytics will be custom trained for specific Analytics use-cases, also be implemented for Integrating CoronaLytics with Node-Red for AIoT use-cases in real world.
+Note: CoronaLytics will be custom trained for specific Analytics use-cases, also will be implemented for Integrating CoronaLytics with Node-Red for AIoT use-cases in real world.
 
 As social distancing and face masks become an important tool to combat COVID-19, Government regulations or organizations may wish to be notified when individuals are not wearing a mask and those who do not comply with social distance rules, below is a demo of Istanbul Covid-19 Social Distancing Analysis based on AI Deep Learning based Video Analytics with Live Dashboard,
 
